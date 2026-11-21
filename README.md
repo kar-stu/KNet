@@ -14,4 +14,4 @@
 
 
 ## Installation
-fucking wait.
+fucking wait...
