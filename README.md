@@ -4,6 +4,6 @@
 
 ## Features
 - EOS integration
-- Room creation of course
-- Player synchronizing, what did you think this is multiplayer
-- And multiplayer
+- Room creation and disconnection of course
+- Player synchronization, what did you think this is multiplayer
+- And yea, multiplayer
