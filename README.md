@@ -11,3 +11,7 @@
 - Room creation and disconnection of course
 - Player synchronization, what did you think this is multiplayer
 - And yea, multiplayer
+
+
+## Installation
+fucking wait.
