@@ -7,7 +7,7 @@
 - Unity: 6000.0+ (unverified)
 
 ## Features
-- EOS integration
+- Joining via code so its easier :)
 - Room creation and disconnection of course
 - Player synchronization, what did you think this is multiplayer
 - And yea, multiplayer
