@@ -4,7 +4,7 @@
 
 ## Compatibility
 - Unity: 6000.6 (tested)
-- Unity: 6000.0+ (unverified)
+- Unity: 6000.0+ (not tested, might work)
 
 ## Features
 - Joining via code so its easier :)
